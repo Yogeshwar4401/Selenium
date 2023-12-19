@@ -9,7 +9,7 @@ public class manage3 {
 		// TODO Auto-generated method stub
 		ChromeDriver driver = new ChromeDriver();
 		Point p = driver.manage().window().getPosition();
-				System.out.println(p.getX());
+		      System.out.println(p.getX());
 		      System.out.println(p.getY());
 	}
 
